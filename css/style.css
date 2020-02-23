@@ -1056,7 +1056,7 @@ img.rounded{
 #slide-and-text{
 	position:relative;
 	font-family: 'Great Vibes', cursive;
-	font-size:54px;
+	font-size:34px;
 	margin-top:30px;
 }
 
@@ -1070,7 +1070,7 @@ img.rounded{
 
 #and-text{
 	position:absolute;
-	top:10px;
+	bottom:50px;
 	margin:auto;
 	left:35px;
 	right:0
@@ -1080,7 +1080,7 @@ img.rounded{
 	position:relative;
 	font-family: 'Great Vibes', cursive;
 	font-size:115px;
-	margin-top:130px;
+	margin-top:85px;
 }
 
 #slide-other-text{
